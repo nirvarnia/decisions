@@ -1,0 +1,36 @@
+= Decision title, eg "Git for version control"
+
+- Created: YYYY-MM-DD
+- Last updated: YYYY-MM-DD
+
+== Status
+
+PROPOSED | ACCEPTED | REJECTED | IMPLEMENTED | DEPRECATED
+
+////
+Optionally, write a summary of the history of status changes for this decision.
+////
+
+== Context
+
+////
+Describe the primary constraints within which this decision was made. For example, was time of the essence, or were security and performance — or other such quality attributes — paramount?
+////
+
+== Decision
+
+////
+Describe the proposed solution.
+////
+
+== Alternatives
+
+////
+What other solutions were considered?
+////
+
+== Consequences
+
+////
+What are the consequences of this decision? For example, does this "quick fix" introduce technical debt that will require refactoring in the future?
+////
