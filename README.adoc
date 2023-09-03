@@ -18,10 +18,14 @@ Anyone can contribute to the technical direction of the Nirvarnia project by cre
 
 The process of opening a pull request initializes a *Request for Comments (RFC)* process in which the proposal is negotiated with the project's maintainers and other stakeholders.
 
-The outcome of the RFC process will, normally, be for the design document to be merged into the upstream reference repository. After merging, the maintainers may make further edits to a proposal before, ultimately, changing its status to either *ACCEPTED* or *REJECTED*.
+The outcome of the RFC process will, normally, be for the design document to be merged into the upstream reference repository. After merging, the maintainers may make further edits to the design before, ultimately, changing its status to either *ACCEPTED* or *REJECTED*.
 
 When a proposal is accepted, the maintainers will start tickets to track the implementation. The tickets will be linked from the design document. Finally, when the implementation is complete, the status of the design document will be changed to *IMPLEMENTED*.
 
 The same steps are followed to change past decisions. However, once a proposed solution is implemented in code and configuration, the design document is thereafter treated as immutable. Therefore, to change or revert past decisions, new documents must be appended to the log that supersede the old ones. The status of the original decisions can then be changed to *DEPRECATED*.
 
 NOTE: The issue tracker attached to this repository SHOULD NOT be used to propose new design documents. The issue tracker SHOULD be used only to propose changes to the RFC process itself.
+
+'''
+
+© https://github.com/nirvarnia/decisions/graphs/contributors[Contributors] | link:LICENSE.txt[CC BY-SA 4.0]
