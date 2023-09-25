@@ -11,10 +11,10 @@ Each discrete decision is recorded in a single text file.
 Anyone can contribute to the technical direction of the Nirvarnia project by creating new design documents. Follow these steps:
 
 1. Fork this repository into your personal or organization account on GitHub. (Maintainers with write access to the reference repository MAY skip this step.)
-2. Branch off `dev` using the naming convention `proposal/[hyphen-delimited-slug]`.
+2. Branch off `main` using the naming convention `proposal/[hyphen-delimited-slug]`.
 3. Copy the `TEMPLATE.adoc` file into the `proposed` directory. Rename the copied file to match `[hyphen-delimited-slug].adoc`. Edit the document's title and change its status to *PROPOSED*.
 4. You MAY edit the design document to flesh out your thoughts in more detail. This step is OPTIONAL.
-5. Commit and push your changes. Open a pull request to merge your proposal into the `dev` branch of the reference repository. Copy the title of your design document into the title of the PR, and write a short summary of the proposal in the description field.
+5. Commit and push your changes. Open a pull request to merge your proposal into the `main` branch of the reference repository. Copy the title of your design document into the title of the PR, and write a short summary of the proposal in the description field.
 
 The process of opening a pull request initializes a *Request for Comments (RFC)* process in which the proposal is negotiated with the project's maintainers and other stakeholders.
 
